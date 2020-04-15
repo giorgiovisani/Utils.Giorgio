@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586879409300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B590CC12",
+    "lastKnownWriteTime" : 1586879412,
+    "last_content_update" : 1586879412876,
+    "path" : "~/Desktop/RPackage/Utils.Giorgio/man/media_ponderata.Rd",
+    "project_path" : "man/media_ponderata.Rd",
+    "properties" : {
+        "cursorPosition" : "4,23",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
